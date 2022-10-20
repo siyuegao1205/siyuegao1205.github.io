@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
@@ -15,8 +14,11 @@ output:
 Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
 
 
-This is a photo released by NASA on my birthday in 2005.
+This is what Hubble Space Telescope saw on my birthday. The image reveals the Whirlpool galaxy's skeletal dust structure, as seen in infrared light. You can visit [nasa.gov](https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday) to check yours.
+
 ![](images/december-2-2005.jpg)
+
+<img src = "images/december-2-2005.jpg" style="width:85%; border:10px solid">
 
 ```{r}
 library(tidyverse)
