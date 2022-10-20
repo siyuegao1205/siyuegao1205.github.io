@@ -1,31 +1,28 @@
 ---
-title: "My awesome website"
+title: "My Awesome Website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
+# Intro
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-
-Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
-
-
 This is what Hubble Space Telescope saw on my birthday. The image reveals the Whirlpool galaxy's skeletal dust structure, as seen in infrared light. You can visit [nasa.gov](https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday) to check yours.
-
-![](images/december-2-2005.jpg)
 
 <img src = "images/december-2-2005.jpg" style="width:85%; border:10px solid">
 
-```{r}
-library(tidyverse)
+# Zelda
 
-sample = rnorm(1000)
-mean(sample)
-```
+This is the newest released conceptual picture of **the Legend of Zelda: Tears of the Kingdom**.
+
+Here's a link to the [trailer video](https://www.youtube.com/watch?v=2SNF4M_v7wc). It's coming May 12th, 2023. Really excited about it!
+
+![](images/tears_of_kingdom.jpg)
+
+# Other Stuff
 
 Here's a direct link to the about page: [about](about.html).
 

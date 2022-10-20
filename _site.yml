@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - icon: fa-thin fa-bolt
+    - icon: fa-thin fa-envelope
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
       href: http://github.com/siyuegao1205/
