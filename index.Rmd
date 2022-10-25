@@ -28,4 +28,7 @@ Here's a link to the [trailer video](https://www.youtube.com/watch?v=2SNF4M_v7wc
 
 Here's a direct link to the about page: [about](about.html).
 
-I aosl made a bonus [extra page](extra_page.html).
+I also made a bonus [extra page](extra_page.html).
+
+[Here's](plotly.html) a page with plotly plots.
+
