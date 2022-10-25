@@ -12,7 +12,9 @@ output:
 
 This is what Hubble Space Telescope saw on my birthday. The image reveals the Whirlpool galaxy's skeletal dust structure, as seen in infrared light. You can visit [nasa.gov](https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday) to check yours.
 
-<img src = "images/december-2-2005.jpg" style="width:85%; border:10px solid">
+<center>
+<img src = "images/december-2-2005.jpg" style="width:50%; border:10px solid">
+</center>
 
 # Zelda
 
