@@ -32,3 +32,4 @@ I also made a bonus [extra page](extra_page.html).
 
 [Here's](plotly.html) a page with plotly plots.
 
+[Here's](dashboard.html) a page with Airbnb dashboard.
